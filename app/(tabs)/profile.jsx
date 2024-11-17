@@ -5,7 +5,7 @@ export default class profile extends Component {
   render() {
     return (
       <View>
-        <Text>profile</Text>
+        <Text>Profile</Text>
       </View>
     )
   }
